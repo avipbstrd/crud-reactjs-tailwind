@@ -1,0 +1,22 @@
+{
+  "rentals": [
+    {
+      "tenant_name": "asu",
+      "item_name": "motor",
+      "rental_start_date": "2022-08-01",
+      "lease_end_date": "2022-08-31",
+      "id_number": "32728789674893269836498",
+      "phone_number": "123567983",
+      "id": 3
+    },
+    {
+      "tenant_name": "avip",
+      "item_name": "mobil",
+      "rental_start_date": "2022-08-01",
+      "lease_end_date": "2022-08-31",
+      "id_number": "32721926289367",
+      "phone_number": "1234-3457-8634",
+      "id": 4
+    }
+  ]
+}
